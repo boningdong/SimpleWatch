@@ -38,6 +38,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=Schematics\SCH_0_Global Connections.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TWDFRXAY
+
+[Document2]
 DocumentPath=Schematics\SCH_1_Controller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -54,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PJDXFLYG
 
-[Document2]
+[Document3]
 DocumentPath=Schematics\SCH_2_Battery & Power Management.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TMOEPTHK
 
-[Document3]
+[Document4]
 DocumentPath=..\..\..\..\Google Drive\Altium-Library\Footprint_SMT_IC_QFN_DFN_MLP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document5]
 DocumentPath=..\..\..\..\Google Drive\Altium-Library\Footprint_SMT_Sensors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document6]
 DocumentPath=..\..\..\..\Google Drive\Altium-Library\Schematic_IC_Micro_Controller.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -120,9 +137,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EIRPTPCK
 
-[Document6]
+[Document7]
 DocumentPath=..\..\..\..\Google Drive\Altium-Library\Schematic_IC_Power_Management.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -137,9 +154,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EOWEISEN
 
-[Document7]
+[Document8]
 DocumentPath=..\..\..\..\Google Drive\Altium-Library\Schematic_IC_Sensors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -154,9 +171,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ORTMOTSH
 
-[Document8]
+[Document9]
 DocumentPath=..\..\..\..\Google Drive\Altium-Library\Schematic_IC_Special.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,23 +189,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CPBTHFVC
-
-[Document9]
-DocumentPath=..\..\..\..\Google Drive\Altium-Library\Schematic_IC_Diode.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GNLUAFDJ
 
 [Document10]
 DocumentPath=..\..\..\Altium\AD18\Library\Miscellaneous Connectors.IntLib
@@ -240,6 +240,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YCXUYWHT
+
+[Document13]
+DocumentPath=..\..\..\..\Google Drive\Altium-Library\Schematic_Crystals.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GOIKIWSU
+
+[Document14]
+DocumentPath=..\..\..\..\Google Drive\Altium-Library\Schematic_Diode.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GNLUAFDJ
 
 [Configuration1]
 Name=Sources
