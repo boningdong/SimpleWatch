@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=C210-1
+Removed Pin From Net: NetName=GND Pin=C211-1
+Removed Member From Class: ClassName=U_SCH_1_Controller Member=C210
+Removed Member From Class: ClassName=U_SCH_1_Controller Member=C211
+Removed Member From Class: ClassName=U_SCH_1_Controller Member=Pad11
+Removed Member From Class: ClassName=U_SCH_1_Controller Member=Pad12

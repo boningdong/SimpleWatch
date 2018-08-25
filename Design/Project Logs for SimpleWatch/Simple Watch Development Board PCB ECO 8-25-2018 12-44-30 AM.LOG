@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=TOUCH_RDY Pin=U11-26
+Removed Pin From Net: NetName=CS_MAG Pin=U11-27
+Removed Pin From Net: NetName=CS_XL Pin=U11-28
+Added Pin To Net: NetName=TOUCH_RDY Pin=U11-25
+Added Pin To Net: NetName=CS_MAG Pin=U11-26
+Added Pin To Net: NetName=CS_XL Pin=U11-27

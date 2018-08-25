@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=LCD_CTRL Pin=U11-21
+Added Pin To Net: NetName=NetU11_21 Pin=U11-21
+Added Pin To Net: NetName=NetU11_21 Pin=U31-23
+Added Net: Name=NetU11_21
+Added Pin To Net: NetName=NetU11_22 Pin=U11-22
+Added Pin To Net: NetName=NetU11_22 Pin=U31-22
+Added Net: Name=NetU11_22

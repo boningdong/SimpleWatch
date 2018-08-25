@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetU11_27 Pin=U32-2
+Removed Pin From Net: NetName=NetU11_28 Pin=U32-3
+Added Pin To Net: NetName=NetU11_28 Pin=U32-2
+Added Pin To Net: NetName=NetU11_27 Pin=U32-3
+Change Net Name : Old Net Name=MOTOR_CTL New Net Name=MOTOR
+Change Net Name : Old Net Name=NetR36_1 New Net Name=AFE_RST
+Change Net Name : Old Net Name=NetR38_1 New Net Name=AFE_PDN
+Change Net Name : Old Net Name=NetR310_1 New Net Name=APDS_LED
+Change Net Name : Old Net Name=NetU11_22 New Net Name=TSC_RDY
+Change Net Name : Old Net Name=NetU11_27 New Net Name=CS_MAG
+Change Net Name : Old Net Name=NetU11_28 New Net Name=CS_XL
+Change Net Name : Old Net Name=NetU11_43 New Net Name=CS_AFE

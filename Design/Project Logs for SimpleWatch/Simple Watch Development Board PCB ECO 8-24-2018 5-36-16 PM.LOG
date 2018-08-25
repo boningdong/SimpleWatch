@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LCD_CTRL Pin=U11-19
+Removed Pin From Net: NetName=APDS_LED Pin=U11-21
+Added Pin To Net: NetName=APDS_LED Pin=U11-19
+Added Pin To Net: NetName=LCD_CTRL Pin=U11-21

@@ -1,0 +1,57 @@
+Added Component: Designator=U41(DFN50P300X300-10N_HS240X150)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U41-1
+Added Pin To Net: NetName=NetR43_1 Pin=U41-2
+Added Pin To Net: NetName=NetR42_1 Pin=U41-3
+Added Pin To Net: NetName=NetC43_2 Pin=U41-4
+Added Pin To Net: NetName=NetC41_2 Pin=U41-5
+Added Pin To Net: NetName=NetU11_22 Pin=U41-6
+Added Pin To Net: NetName=I2C1_SDA Pin=U41-7
+Added Pin To Net: NetName=I2C1_SCL Pin=U41-8
+Added Pin To Net: NetName=NetR41_1 Pin=U41-9
+Added Pin To Net: NetName=GND Pin=U41-11
+Added Member To Class: ClassName=U_SCH_2_Battery & Power Management Member=Component C21 0402
+Added Member To Class: ClassName=U_SCH_2_Battery & Power Management Member=Component C22 0402
+Added Member To Class: ClassName=U_SCH_2_Battery & Power Management Member=Component C23 0402
+Added Member To Class: ClassName=U_SCH_2_Battery & Power Management Member=Component C24 0603
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component C31 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component C32 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component C33 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component C34 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component C35 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component C36 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component C37 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component C38 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component C39 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component C310 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component C311 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component C312 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component C313 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component D31 SFH-2430
+Added Member To Class: ClassName=U_SCH_2_Battery & Power Management Member=Component P21 BAT
+Added Member To Class: ClassName=U_SCH_2_Battery & Power Management Member=Component R21 0402
+Added Member To Class: ClassName=U_SCH_2_Battery & Power Management Member=Component R22 0402
+Added Member To Class: ClassName=U_SCH_2_Battery & Power Management Member=Component R23 0402
+Added Member To Class: ClassName=U_SCH_2_Battery & Power Management Member=Component R24 0402
+Added Member To Class: ClassName=U_SCH_2_Battery & Power Management Member=Component R25 0402
+Added Member To Class: ClassName=U_SCH_2_Battery & Power Management Member=Component R26 0402
+Added Member To Class: ClassName=U_SCH_2_Battery & Power Management Member=Component R29 0402
+Added Member To Class: ClassName=U_SCH_2_Battery & Power Management Member=Component R30 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component R31 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component R34 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component R35 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component R36 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component R37 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component R38 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component R39 0402
+Added Member To Class: ClassName=U_SCH_2_Battery & Power Management Member=Component R210 0402
+Added Member To Class: ClassName=U_SCH_2_Battery & Power Management Member=Component R211 0402
+Added Member To Class: ClassName=U_SCH_2_Battery & Power Management Member=Component R212 0402
+Added Member To Class: ClassName=U_SCH_2_Battery & Power Management Member=Component R213 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component R310 0402
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component R311 0402
+Added Member To Class: ClassName=U_SCH_2_Battery & Power Management Member=Component RT21 Res Thermal
+Added Member To Class: ClassName=U_SCH_2_Battery & Power Management Member=Component S21 SW DIP-5
+Added Member To Class: ClassName=U_SCH_4_Touch Sensors Member=Component U41 IQS263
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component Y1 ABM3_8MHz
+Added Room: Name=U_SCH_1_Controller

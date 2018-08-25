@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=POWER_SUPPLY Member=NetC26_2
+Added Pin To Net: NetName=MOTOR_SUP Pin=C26-2
+Added Pin To Net: NetName=MOTOR_SUP Pin=U22-5
+Added Member To Class: ClassName=POWER_SUPPLY Member=Wire MOTOR_SUP

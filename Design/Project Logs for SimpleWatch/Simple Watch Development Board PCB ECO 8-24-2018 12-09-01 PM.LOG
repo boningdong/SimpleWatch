@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MOTOR_GATE Pin=P52-1
+Removed Pin From Net: NetName=MOTOR_GATE Pin=P52-2
+Added Pin To Net: NetName=MOTOR_CTL Pin=P52-1
+Added Pin To Net: NetName=MOTOR_CTL Pin=P52-2

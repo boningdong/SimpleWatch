@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=LCD_CTRL Pin=U11-42
+Added Pin To Net: NetName=LCD_CTRL Pin=U11-43
+Added Room: Name=U_SCH_1_Controller
+Added Room: Name=U_SCH_2_Battery & Power Management
+Added Room: Name=U_SCH_3_Heartrate & Motion Sensors
+Added Room: Name=U_SCH_4_Touch Sensors
+Added Room: Name=U_SCH_5_Vibration Motor

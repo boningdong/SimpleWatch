@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=TP33-1
+Removed Pin From Net: NetName=GND Pin=TP34-1
+Removed Pin From Net: NetName=GND Pin=TP36-1
+Removed Pin From Net: NetName=GND Pin=TP38-1
+Removed Member From Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=TP33
+Removed Member From Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=TP34
+Removed Member From Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=TP36
+Removed Member From Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=TP38
+Added Room: Name=U_SCH_1_Controller
+Added Room: Name=U_SCH_2_Battery & Power Management
+Added Room: Name=U_SCH_3_Heartrate & Motion Sensors
+Added Room: Name=U_SCH_4_Touch Sensors

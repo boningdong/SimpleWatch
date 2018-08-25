@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=TSC_RDY Pin=U11-22
+Added Pin To Net: NetName=TSC_RDY Pin=U11-26
+Change Net Name : Old Net Name=TSC_RDY New Net Name=TOUCH_RDY

@@ -1,0 +1,43 @@
+Added Component: Designator=U31(QFN50P600X600X100-40N_HS410)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=AFE_IN_N Pin=U31-1
+Added Pin To Net: NetName=AFE_IN_P Pin=U31-2
+Added Pin To Net: NetName=GND Pin=U31-3
+Added Pin To Net: NetName=NetR31_2 Pin=U31-4
+Added Pin To Net: NetName=NetC38_2 Pin=U31-7
+Added Pin To Net: NetName=GND Pin=U31-8
+Added Pin To Net: NetName=NetC37_2 Pin=U31-9
+Added Pin To Net: NetName=LED_DRV_SUP Pin=U31-11
+Added Pin To Net: NetName=GND Pin=U31-12
+Added Pin To Net: NetName=GND Pin=U31-13
+Added Pin To Net: NetName=AFE_TX_N Pin=U31-14
+Added Pin To Net: NetName=AFE_TX_P Pin=U31-15
+Added Pin To Net: NetName=GND Pin=U31-16
+Added Pin To Net: NetName=LED_DRV_SUP Pin=U31-17
+Added Pin To Net: NetName=LED_DRV_SUP Pin=U31-18
+Added Pin To Net: NetName=GND Pin=U31-19
+Added Pin To Net: NetName=NetR38_1 Pin=U31-20
+Added Pin To Net: NetName=NetU11_38 Pin=U31-21
+Added Pin To Net: NetName=NetU11_33 Pin=U31-22
+Added Pin To Net: NetName=NetU11_32 Pin=U31-23
+Added Pin To Net: NetName=SPI1_SCK Pin=U31-24
+Added Pin To Net: NetName=SPI1_MISO Pin=U31-25
+Added Pin To Net: NetName=SPI1_MOSI Pin=U31-26
+Added Pin To Net: NetName=NetU11_43 Pin=U31-27
+Added Pin To Net: NetName=NetU11_14 Pin=U31-28
+Added Pin To Net: NetName=NetR36_1 Pin=U31-29
+Added Pin To Net: NetName=NetR37_2 Pin=U31-30
+Added Pin To Net: NetName=LED_DRV_SUP Pin=U31-31
+Added Pin To Net: NetName=GND Pin=U31-32
+Added Pin To Net: NetName=LED_DRV_SUP Pin=U31-33
+Added Pin To Net: NetName=GND Pin=U31-36
+Added Pin To Net: NetName=NetR35_1 Pin=U31-37
+Added Pin To Net: NetName=NetR34_1 Pin=U31-38
+Added Pin To Net: NetName=LED_DRV_SUP Pin=U31-39
+Added Pin To Net: NetName=GND Pin=U31-40
+Added Pin To Net: NetName=GND Pin=U31-41
+Added Member To Class: ClassName=U_SCH_3_Heartrate & Motion Sensors Member=Component U31 AFE4400
+Added Room: Name=U_SCH_1_Controller
+Added Room: Name=U_SCH_2_Battery & Power Management
+Added Room: Name=U_SCH_3_Heartrate & Motion Sensors
+Added Room: Name=U_SCH_4_Touch Sensors

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=AFE_RST Pin=U11-3
+Added Pin To Net: NetName=AFE_RST Pin=U11-2
+Added Room: Name=U_SCH_1_Controller
+Added Room: Name=U_SCH_2_Battery & Power Management
+Added Room: Name=U_SCH_3_Heartrate & Motion Sensors
+Added Room: Name=U_SCH_4_Touch Sensors
+Added Room: Name=U_SCH_5_Vibration Motor

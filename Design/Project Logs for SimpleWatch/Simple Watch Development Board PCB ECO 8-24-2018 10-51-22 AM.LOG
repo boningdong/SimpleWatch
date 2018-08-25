@@ -1,0 +1,8 @@
+Added Component: Designator=Pad11(TPAD_8X8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Pad12(TPAD_8X8)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=TSC_G2_IO1 Pin=Pad11-1
+Added Pin To Net: NetName=TSC_G1_IO1 Pin=Pad12-1
+Added Member To Class: ClassName=U_SCH_1_Controller Member=Component Pad11 Single Touchpad
+Added Member To Class: ClassName=U_SCH_1_Controller Member=Component Pad12 Single Touchpad
